@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:leather"
+        },
+        {
+            "tag": "forge:dyes/lime"
+        }
+    ],
+    "result": {
+        "item": "linkingbooks:linking_book_cover_lime",
+        "count": 3
+    }
+}

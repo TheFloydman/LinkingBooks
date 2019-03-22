@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "linkingbooks:linking_panel"
+        },
+        {
+            "item": "linkingbooks:linking_book_cover_green"
+        }
+    ],
+    "result": {
+        "item": "linkingbooks:linking_book_blank_green",
+        "count": 1
+    }
+}

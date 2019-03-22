@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		"linkingbooks:linking_book_written_white",
+		"linkingbooks:linking_book_written_light_gray",
+		"linkingbooks:linking_book_written_gray",
+		"linkingbooks:linking_book_written_black",
+		"linkingbooks:linking_book_written_brown",
+		"linkingbooks:linking_book_written_light_blue",
+		"linkingbooks:linking_book_written_cyan",
+		"linkingbooks:linking_book_written_blue",
+		"linkingbooks:linking_book_written_pink",
+		"linkingbooks:linking_book_written_magenta",
+		"linkingbooks:linking_book_written_red",
+		"linkingbooks:linking_book_written_lime",
+		"linkingbooks:linking_book_written_green",
+		"linkingbooks:linking_book_written_yellow",
+		"linkingbooks:linking_book_written_orange",
+		"linkingbooks:linking_book_written_purple"
+	]
+}

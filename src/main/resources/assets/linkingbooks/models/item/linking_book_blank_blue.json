@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "linkingbooks:items/linking_book_blank/linking_book_blank_blue"
+	}
+}
